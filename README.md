@@ -1,2 +1,2 @@
-<h3 align="center">Persistent Stack</h3>
+<h1 align="center">Persistent Stack</h1>
 
